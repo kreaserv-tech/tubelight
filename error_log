@@ -1,0 +1,99 @@
+[16-Jun-2017 15:25:12 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 69
+[16-Jun-2017 15:25:42 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 69
+[16-Jun-2017 15:26:32 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 70
+[16-Jun-2017 15:26:37 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 70
+[16-Jun-2017 15:27:08 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 70
+[16-Jun-2017 15:27:21 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 70
+[16-Jun-2017 15:28:16 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:28:44 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:28:52 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:31:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:32:37 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:33:44 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:34:12 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[16-Jun-2017 15:34:28 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/leaderboard.php on line 66
+[17-Jun-2017 06:09:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/quiz.php on line 54
+[17-Jun-2017 06:09:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/views/quiz.php on line 54
+[17-Jun-2017 01:12:16 Etc/GMT] PHP Fatal error:  Call to a member function row() on a non-object in /home/leadfxx1/public_html/kreaserv-tech.com/tubelight/application/controllers/Hauth.php on line 49
+[19-Jun-2017 15:49:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[19-Jun-2017 15:50:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 174
+[20-Jun-2017 09:49:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:49:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:50:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:51:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:51:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:51:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:51:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:51:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:52:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:53:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 09:54:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 290
+[20-Jun-2017 12:14:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
+[20-Jun-2017 12:14:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
+[20-Jun-2017 12:14:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
+[20-Jun-2017 12:14:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
+[20-Jun-2017 12:14:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
+[20-Jun-2017 12:14:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/leadfxx1/public_html/inoxbrightesttubelight.com/application/controllers/Home.php on line 367
